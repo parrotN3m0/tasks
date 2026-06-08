@@ -1,4 +1,3 @@
-```markdown
 # Задача 1: Слияние двух отсортированных списков
 
 ## Условие
@@ -117,4 +116,4 @@ for _ in range(2, n + 1):
     prev, curr = curr, prev + curr
 return curr
 ``` 
-```
+
